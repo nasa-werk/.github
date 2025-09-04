@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_link:
+  -name: Bug Report
+  url: https://github.com/nasa-werk/.github/blob/main/ISSUE_TEMPLATE/bug_report.md
+  about: Bug reporting
